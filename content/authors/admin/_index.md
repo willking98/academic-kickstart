@@ -45,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/__willking
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a health economist working at Newcastle University. I graduated with a BSc in Economics from Newcastle University in 2019. My research involves both within-trial and model-based economic evaluations for health-technology assessments. I have recently built an economic model estimating the cost-effectiveness of methenamine hippurate (an oral antiseptic) relative to antibiotic prophylaxis. Aside from health economics, I am particularly interested in the applications of programming and data science for research. I am currently developing a web-scraping algorithm designed to clean and cost patient reported concomitant medications. 
+I am a health economist working at Newcastle University. I graduated with a BSc in Economics from Newcastle University in 2019. My research involves both within-trial and model-based economic evaluations for health-technology assessments. I have recently built an economic model estimating the cost-effectiveness of methenamine hippurate (an oral antiseptic) relative to antibiotic prophylaxis. Aside from health economics, I am particularly interested in the applications of programming and data science for research. I am currently developing a web-scraping algorithm designed to clean and cost patient reported concomitant medications.
