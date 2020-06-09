@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/willking98
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a health economist working at Newcastle University. I graduated with a BSc in Economics from Newcastle University in 2019. My research involves both within-trial and model-based economic evaluations for health-technology assessments. I have recently built an economic model estimating the cost-effectiveness of methenamine hippurate (an oral antiseptic) relative to antibiotic prophylaxis. Aside from health economics, I am particularly interested in the applications of programming and data science for research. I am currently developing a web-scraping algorithm designed to clean and cost patient reported concomitant medications. 
