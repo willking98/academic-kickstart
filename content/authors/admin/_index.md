@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Will King
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Training Fellow in Health Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Newcastle University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include economic evaluation, economic modelling and data analysis.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic evaluation
+- Economic modelling
+- Programming
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Public Health
+    institution: Newcastle University
+    year: 2019-21
+  - course: BSc Economics
+    institution: Newcastle University
+    year: 2016-19
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
