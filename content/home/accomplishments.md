@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Oxford University"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://www.herc.ox.ac.uk"
   title = "Applied Methods of Cost-Effectiveness Analysis"
   url = "https://www.herc.ox.ac.uk/herc-short-courses/applied-methods-of-cost-effectiveness-analysis"
   date_start = "2019-12-11"
