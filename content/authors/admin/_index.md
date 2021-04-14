@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Will King
+title: Population Health Sciences Institute Health Economics Group
 
 # Username (this should match the folder name)
 authors:
