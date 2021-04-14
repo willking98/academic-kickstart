@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Training Fellow in Health Economics
+role:
 
 # Organizations/Affiliations
 organizations:
