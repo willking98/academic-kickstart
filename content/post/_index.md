@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
+header: Research Assistant/Associate
+  caption: "Closing date XX"
   image: ""
 ---
