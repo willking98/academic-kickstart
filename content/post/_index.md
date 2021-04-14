@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header: Research Assistant/Associate
-  caption: "Closing date XX"
+  caption: "Closing date"
   image: ""
 ---
