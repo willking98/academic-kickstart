@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-The Population Health Sciences Institute Health Economics Group (HEG) at Newcastle University consists of XX economists with a variety of backgrounds, experience, and expertise.
+The Population Health Sciences Institute Health Economics Group (PHSI-HEG) at Newcastle University consists of XX economists with a variety of backgrounds, experience, and expertise.
