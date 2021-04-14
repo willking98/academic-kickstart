@@ -25,14 +25,14 @@ interests:
 - Economic modelling
 - Programming
 
-education:
-  courses:
-  - course: MSc Public Health
-    institution: Newcastle University
-    year: 2019-21
-  - course: BSc Economics
-    institution: Newcastle University
-    year: 2016-19
+# education:
+#  courses:
+#  - course: MSc Public Health
+#    institution: Newcastle University
+#    year: 2019-21
+#  - course: BSc Economics
+#    institution: Newcastle University
+#    year: 2016-19
 
 
 # Social/Academic Networking
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a health economist working at Newcastle University. I am currently completing an MSc in Public Health at Newcastle University after graduating with a BSc in Economics from Newcastle University in 2019. My research involves both within-trial and model-based economic evaluations for health-technology assessments. I have recently built an economic model estimating the cost-effectiveness of methenamine hippurate (an oral antiseptic) relative to antibiotic prophylaxis. Aside from health economics, I am particularly interested in the applications of programming and data science for research. I am currently developing a web-scraping algorithm designed to clean and cost patient reported concomitant medications.
+The Population Health Sciences Institute Health Economics Group (HEG) at Newcastle University consists of XX economists with a variety of backgrounds, experience, and expertise.
